@@ -1,0 +1,62 @@
+# depslib dependency file v1.0
+1496419936 source:c:\users\jozi\desktop\murdoch\sem 1 17\ict283\assignment2\date\date.cpp
+	"Date.h"
+
+1496421169 c:\users\jozi\desktop\murdoch\sem 1 17\ict283\assignment2\date\date.h
+	<iostream>
+	<string>
+
+1496427591 source:c:\users\jozi\desktop\murdoch\sem 1 17\ict283\assignment2\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<iomanip>
+	"WindAndSolar/WindandSolar.h"
+
+1496421175 c:\users\jozi\desktop\murdoch\sem 1 17\ict283\assignment2\windandsolar\windandsolar.h
+	"../WeatherValue/WeatherValue.h"
+	"../Vector/Vector.h"
+	"../BinarySearchTree/BinarySearchTree.h"
+	"../Collect/Collect.h"
+	<map>
+	<iostream>
+
+1496421175 c:\users\jozi\desktop\murdoch\sem 1 17\ict283\assignment2\weathervalue\weathervalue.h
+	"../Date/Date.h"
+	"../Time/Time.h"
+	<string>
+	<iostream>
+
+1496419985 c:\users\jozi\desktop\murdoch\sem 1 17\ict283\assignment2\time\time.h
+	<iostream>
+	<string>
+
+1496426447 c:\users\jozi\desktop\murdoch\sem 1 17\ict283\assignment2\vector\vector.h
+	<iostream>
+
+1496422563 c:\users\jozi\desktop\murdoch\sem 1 17\ict283\assignment2\binarysearchtree\binarysearchtree.h
+	<iostream>
+
+1493370102 source:c:\users\jozi\desktop\murdoch\sem 1 17\ict283\assignment2\time\time.cpp
+	"Time.h"
+
+1496298652 source:c:\users\jozi\desktop\murdoch\sem 1 17\ict283\assignment2\weathervalue\weathervalue.cpp
+	"WeatherValue.h"
+
+1496419922 source:c:\users\jozi\desktop\murdoch\sem 1 17\ict283\assignment2\windandsolar\windandsolar.cpp
+	"WindandSolar.h"
+
+1496422308 c:\users\jozi\desktop\murdoch\sem 1 17\ict283\assignment2\collect\collect.h
+	"../Vector/Vector.h"
+
+1496424431 source:c:\users\jozi\desktop\murdoch\sem 1 17\ict283\assignment2\vector\vectortest.cpp
+	<iostream>
+	"Vector.h"
+
+1496425253 source:c:\users\jozi\desktop\murdoch\sem 1 17\ict283\assignment2\binarysearchtree\binarysearchtreetest.cpp
+	<iostream>
+	"BinarySearchTree.h"
+	"../Date/Date.h"
+	<fstream>
+	<sstream>
+
